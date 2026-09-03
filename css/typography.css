@@ -1,0 +1,12 @@
+.eyebrow {
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #31B380;
+}
+
+.eyebrow--hero {
+  margin-bottom: 20px;
+}

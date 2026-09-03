@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Poppins, Robot, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6B7280;
+  background-color: #F8F8F8;
+}
+
+a {
+  text-decoration: none;
+  color: #211B3D;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

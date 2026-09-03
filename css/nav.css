@@ -1,0 +1,38 @@
+.nav {
+  padding: 30px 0px;
+  background-color: #fff;
+}
+
+.nav__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__inner-left {
+  display: flex;
+  align-items: center;
+}
+
+.nav__inner-logo {
+  margin-right: 50px;
+}
+
+.nav__list {
+  display: flex;
+  gap: 30px;
+}
+
+.nav__list {
+  font-weight: 400;
+  color: #211B3D;
+}
+
+.nav__item--active a {
+  color: #7839F3;
+}
+
+.nav__inner-right {
+  display: flex;
+  gap: 19px;
+}
